@@ -1,14 +1,13 @@
 {
   "name": "wolfy",
-  "version": "1.0.0",
-  "description": "wolfybot",
+  "description": "wolf-bot",
+  "version": "0.0.0",
   "main": "wolfy.js",
   "scripts": {
     "start": "node bot.js"
   },
-  "author": "betho",
-  "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.5.1"
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
   }
 }
