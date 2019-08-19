@@ -1,1 +1,1 @@
-worker: node wolfy.js
+worker node wolfy.js
