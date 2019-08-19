@@ -7,5 +7,5 @@ bot.on('ready', () =>{
         console.log('Hallo ich bin Wolfy!')
 })
 
-bot.login(token);
-client.login(process.env.BOT_TOKEN);
+// bot.login(token);
+client.login(process.env.disc_bot);
